@@ -1,2 +1,10 @@
-# vent-studio
-Free browser-based parametric pattern generator for vent grilles, perforated panels and halftone textures. 9 layouts, 37 hole shapes, gradient and image mapping. Exports SVG, DXF, PNG and a 3D plate. A single HTML file with no install.
+# Things Made Here Vent Studio
+
+Design custom vent grilles, perforated panels and halftone hole patterns right in your browser.
+
+- 9 layouts: scatter, grid, wave path, spiral, rings, Fibonacci, cross-hatch, Voronoi, flow lines
+- 37 hole shapes, with two-shape mixing and rotation options
+- Radial, linear or image-based gradients that control hole size and rotation
+- Exports SVG, DXF (CAD/CNC), PNG and an OpenSCAD 3D plate
+
+**Use it:** open `index.html` in any browser. Nothing to install.
