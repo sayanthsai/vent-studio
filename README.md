@@ -8,3 +8,6 @@ Design custom vent grilles, perforated panels and halftone hole patterns right i
 - Exports SVG, DXF (CAD/CNC), PNG and an OpenSCAD 3D plate
 
 **Use it:** open `index.html` in any browser. Nothing to install.
+
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/44030e92-b3ff-46f4-802f-24f99152a5fd" />
+
